@@ -1,1 +1,1 @@
-isso não é so um teste, é um arquivo de exemplo.
+isso não é so um teste, é um arquivo de exemplo.;
